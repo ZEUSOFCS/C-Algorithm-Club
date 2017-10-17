@@ -23,8 +23,6 @@ Inspired by [Swift Algorithm Club](https://github.com/raywenderlich/swift-algori
 
 [Algorithm design techniques](Algorithm%20Design.markdown). How do you create your own algorithms?
 
-[How to contribute](https://github.com/raywenderlich/swift-algorithm-club/blob/master/.github/CONTRIBUTING.md). Report an issue to leave feedback, or submit a pull request.
-
 ## Where to start?
 
 If you're new to algorithms and data structures, here are a few good ones to start out with:
